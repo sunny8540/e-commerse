@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    background-color:#fe6c51;
+
+}
+.main{
+    position: relative;
+    width: 350px;
+    height: 500px;
+    background-color: aliceblue;
+    margin-left:470px ;
+    margin-top:75px;
+    box-shadow:0px 0px 10px  black;
+    border-radius: 20px;
+}
+.main > P{
+    position: absolute;
+    margin-left:119px ;
+    margin-top:20px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: #fe6c51;
+    opacity: 0.9;
+    font-weight: 700;
+}
+#email{
+    width: 300px;
+    border: none;
+    background-color: #fe6c51;
+    opacity: 0.6;
+    border-radius: 20px;
+    height: 35px;
+    color: black;
+    margin-left:20px ;
+    margin-top:100px ;  
+}
+#password{
+    position: absolute;
+    width: 300px;
+    border: none;
+    background-color: #fe6c51;
+    opacity: 0.6;
+    border-radius: 20px;
+    height: 35px;
+    color: black;
+    margin-left:20px ;
+    margin-top:10px ;  
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:10px;
+    font-weight: 400;
+    color: black;
+    margin-top:55px ;
+    margin-left:25px ;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: 600;
+    font-size: 15px;
+    color: gray;
+    margin-left: 95px;    
+}
+.img{
+    position: relative;
+    margin-left:15px ;
+}
+.img1{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin-left:100px ;
+    margin-top:10px ;
+    background-image: url("facebook.png")
+}
+.img2{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin-left:135px ;
+    margin-top:10px ;
+    background-repeat: no-repeat;
+    background-image: url("link.png")
+}
+.img3{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin-left:175px;
+    margin-top:10px ;
+    background-repeat: no-repeat;
+    background-image: url("whatsapp.png")
+}

@@ -1,0 +1,885 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.containt{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    text-align: left;
+    color: brown;
+    opacity: .6;
+    margin-top:20px ;
+    margin-left: 20px;
+    padding:10px ;
+    border-left: 5px solid brown;
+}
+.Photo_row1{
+    position: relative;
+     /* margin-left:0px ; */
+
+}
+.div1{  
+    position: absolute;
+    margin-top: 60px ;
+    margin-left:25px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe16.jpg");  
+
+}
+.div2{
+    position: absolute;
+    margin-top: 60px ;
+    margin-left:275px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe17.jpg");  
+     
+}
+.div3{
+    position: absolute;
+    margin-top: 60px ;
+    margin-left:525px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe21.jpg");  
+     
+}
+.div4{
+    position: absolute;
+    margin-top: 60px ;
+    margin-left:775px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe19.jpg");  
+     
+}
+.div5{
+    position: absolute;
+    margin-top: 60px ;
+    margin-left:1025px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe20.jpg");  
+     
+}   
+.div1 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div1 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div2 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div2 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div3 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div3 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div4 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div4 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div5 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div5 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div1:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:50px;
+    transition-delay: 100ms;
+}
+.div2:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:50px;
+    transition-delay: 100ms;
+}
+.div3:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:50px;
+    transition-delay: 100ms;
+}
+.div4:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:50px;
+    transition-delay: 100ms;
+}
+.div5:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:50px;
+    transition-delay: 100ms;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Photo_row2{
+    position: relative;
+     /* margin-left:0px ; */
+
+}
+.div11{  
+    position: absolute;
+    margin-top: 355px ;
+    margin-left:25px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe22.jpg");  
+
+}
+.div22{
+    position: absolute;
+    margin-top: 355px ;
+    margin-left:275px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe23.jpg");  
+     
+}
+.div33{
+    position: absolute;
+    margin-top: 355px ;
+    margin-left:525px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe24.jpg");  
+     
+}
+.div44{
+    position: absolute;
+    margin-top: 355px ;
+    margin-left:775px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe25.jpg");  
+     
+}
+.div55{
+    position: absolute;
+    margin-top: 355px ;
+    margin-left:1025px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe26.jpg");  
+     
+}   
+.div11 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div11 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div22 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div22 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div33 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div33 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div44 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div44 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div55 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div55 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div11:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:350px;
+    transition-delay: 100ms;
+}
+.div22:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:350px;
+    transition-delay: 100ms;
+}
+.div33:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:350px;
+    transition-delay: 100ms;
+}
+.div44:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:350px;
+    transition-delay: 100ms;
+}
+.div55:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:350px;
+    transition-delay: 100ms;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Photo_row3{
+    position: relative;
+     /* margin-left:0px ; */
+
+}
+.div111{  
+    position: absolute;
+    margin-top: 640px ;
+    margin-left:25px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe28.jpg");  
+
+}
+.div222{
+    position: absolute;
+    margin-top: 640px ;
+    margin-left:275px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe27.jpg");  
+     
+}
+.div333{
+    position: absolute;
+    margin-top: 640px ;
+    margin-left:525px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe29.jpg");  
+     
+}
+.div444{
+    position: absolute;
+    margin-top: 640px ;
+    margin-left:775px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe30.jpg");  
+     
+}
+.div555{
+    position: absolute;
+    margin-top: 640px ;
+    margin-left:1025px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe31.jpg");  
+     
+}   
+.div111 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div111 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div222 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div222 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div333 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div333 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div444 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div444 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div555 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div555 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div111:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:635px;
+    transition-delay: 100ms;
+}
+.div222:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:635px;
+    transition-delay: 100ms;
+}
+.div333:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:635px;
+    transition-delay: 100ms;
+}
+.div444:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:635px;
+    transition-delay: 100ms;
+}
+.div555:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:635px;
+    transition-delay: 100ms;
+}
+
+
+
+
+
+
+.Photo_row4{
+    position: relative;
+     /* margin-left:0px ; */
+
+}
+.div1111{  
+    position: absolute;
+    margin-top: 925px ;
+    margin-left:25px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe36.jpg");  
+    background-repeat: no-repeat;
+}
+.div2222{
+    position: absolute;
+    margin-top: 925px ;
+    margin-left:275px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe35.jpg");  
+    background-repeat: no-repeat;
+}
+.div3333{
+    position: absolute;
+    margin-top: 925px ;
+    margin-left:525px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe34.jpg");  
+     
+    background-repeat: no-repeat;
+}
+.div4444{
+    position: absolute;
+    margin-top: 925px ;
+    margin-left:775px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe33.jpg");  
+    background-repeat: no-repeat; 
+}
+.div5555{
+    position: absolute;
+    margin-top: 925px ;
+    margin-left:1025px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe32.jpg");  
+    background-repeat: no-repeat;
+}   
+.div1111 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div1111 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div2222 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div2222>p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div3333 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div3333 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div4444 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div4444 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div5555 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div5555 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div1111:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:920px;
+    transition-delay: 100ms;
+}
+.div2222:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:920px;
+    transition-delay: 100ms;
+}
+.div3333:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:920px;
+    transition-delay: 100ms;
+}
+.div4444:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:920px;
+    transition-delay: 100ms;
+}
+.div5555:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:920px;
+    transition-delay: 100ms;
+}
+
+
+
+
+
+.Photo_row5{
+    position: relative;
+     /* margin-left:0px ; */
+
+}
+.div11111{  
+    position: absolute;
+    margin-top: 1210px ;
+    margin-left:25px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe37.jpg");  
+    background-repeat: no-repeat;
+}
+.div22222{
+    position: absolute;
+    margin-top: 1210px ;
+    margin-left:275px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe38.jpg");  
+    background-repeat: no-repeat;
+}
+.div33333{
+    position: absolute;
+    margin-top: 1210px ;
+    margin-left:525px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe39.jpg");  
+     
+    background-repeat: no-repeat;
+}
+.div44444{
+    position: absolute;
+    margin-top: 1210px ;
+    margin-left:775px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe40.jpg");  
+    background-repeat: no-repeat; 
+}
+.div55555{
+    position: absolute;
+    margin-top: 1210px ;
+    margin-left:1025px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe41.jpg");  
+    background-repeat: no-repeat;
+}   
+.div11111 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div11111 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div22222 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div22222>p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div33333 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div33333 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div44444 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div44444 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div55555 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div55555 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div11111:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:1205Spx;
+    transition-delay: 100ms;
+}
+.div22222:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:1205px;
+    transition-delay: 100ms;
+}
+.div33333:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:1205px;
+    transition-delay: 100ms;
+}
+.div44444:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:1205px;
+    transition-delay: 100ms;
+}
+.div55555:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:1205px;
+    transition-delay: 100ms;
+}
+
+
+
+
+
+
+
+
+.Photo_row6{
+    position: relative;
+     /* margin-left:0px ; */
+
+}
+.div111111{  
+    position: absolute;
+    margin-top: 1500px ;
+    margin-left:25px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe41.jpg");  
+    background-repeat: no-repeat;
+}
+.div222222{
+    position: absolute;
+    margin-top: 1500px ;
+    margin-left:275px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe42.jpg");  
+    background-repeat: no-repeat;
+}
+.div333333{
+    position: absolute;
+    margin-top: 1500px ;
+    margin-left:525px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe43.jpg");  
+     
+    background-repeat: no-repeat;
+}
+.div444444{
+    position: absolute;
+    margin-top: 1500px ;
+    margin-left:775px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe2.jpg");  
+    background-repeat: no-repeat; 
+}
+.div555555{
+    position: absolute;
+    margin-top: 1500px ;
+    margin-left:1025px ;
+    width: 225px;
+    height: 225px;
+    background-image: url("shoe45.jpg");  
+    background-repeat: no-repeat;
+}   
+.div111111 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div111111 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div222222 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div222222>p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div333333 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div333333 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div444444 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div444444 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div555555 > p{
+    margin-top: 230px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.div555555 >p1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.div111111:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:1495px;
+    transition-delay: 100ms;
+}
+.div222222:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:1495px;
+    transition-delay: 100ms;
+}
+.div333333:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:1495px;
+    transition-delay: 100ms;
+}
+.div444444:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:1495px;
+    transition-delay: 100ms;
+}
+.div555555:hover{
+    box-shadow: 0px 0px 10px black;
+    margin-top:1495px;
+    transition-delay: 100ms;
+}

@@ -1,0 +1,18 @@
+p{
+    text-align: justify   ;  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    /* font-weight: 400; */
+    color: gray;
+    margin-left:30px ;
+  }
+  label{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    color: #fe6c51;
+    margin-left:20px ;
+    padding-left:20px ;
+    border-left:5px solid #fe6c51 ;
+
+}
